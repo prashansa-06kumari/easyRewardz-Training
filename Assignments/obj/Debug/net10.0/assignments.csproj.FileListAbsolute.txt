@@ -1,0 +1,15 @@
+E:\c#first\assignments\obj\Debug\net10.0\assignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#first\assignments\obj\Debug\net10.0\assignments.AssemblyInfoInputs.cache
+E:\c#first\assignments\obj\Debug\net10.0\assignments.AssemblyInfo.cs
+E:\c#first\assignments\obj\Debug\net10.0\assignments.csproj.CoreCompileInputs.cache
+E:\c#first\assignments\obj\Debug\net10.0\assignments.sourcelink.json
+E:\c#first\assignments\bin\Debug\net10.0\assignments.exe
+E:\c#first\assignments\bin\Debug\net10.0\assignments.deps.json
+E:\c#first\assignments\bin\Debug\net10.0\assignments.runtimeconfig.json
+E:\c#first\assignments\bin\Debug\net10.0\assignments.dll
+E:\c#first\assignments\bin\Debug\net10.0\assignments.pdb
+E:\c#first\assignments\obj\Debug\net10.0\assignments.dll
+E:\c#first\assignments\obj\Debug\net10.0\refint\assignments.dll
+E:\c#first\assignments\obj\Debug\net10.0\assignments.pdb
+E:\c#first\assignments\obj\Debug\net10.0\assignments.genruntimeconfig.cache
+E:\c#first\assignments\obj\Debug\net10.0\ref\assignments.dll
