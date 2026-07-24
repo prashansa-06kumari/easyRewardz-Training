@@ -1,0 +1,14 @@
+E:\c#first\Day04-ArraysandString\ArraysDemo\bin\Debug\net10.0\ArraysDemo.exe
+E:\c#first\Day04-ArraysandString\ArraysDemo\bin\Debug\net10.0\ArraysDemo.deps.json
+E:\c#first\Day04-ArraysandString\ArraysDemo\bin\Debug\net10.0\ArraysDemo.runtimeconfig.json
+E:\c#first\Day04-ArraysandString\ArraysDemo\bin\Debug\net10.0\ArraysDemo.dll
+E:\c#first\Day04-ArraysandString\ArraysDemo\bin\Debug\net10.0\ArraysDemo.pdb
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ArraysDemo.AssemblyInfoInputs.cache
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ArraysDemo.AssemblyInfo.cs
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ArraysDemo.csproj.CoreCompileInputs.cache
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ArraysDemo.dll
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\refint\ArraysDemo.dll
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ArraysDemo.pdb
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ArraysDemo.genruntimeconfig.cache
+E:\c#first\Day04-ArraysandString\ArraysDemo\obj\Debug\net10.0\ref\ArraysDemo.dll
