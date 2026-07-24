@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyNamespace
+namespace Assignments
 {
     class Program1
     {
@@ -25,6 +25,36 @@ namespace MyNamespace
             assignment1.avg();
 
             assignment1.KilToMil();
+
+
+            assignment3.quotientandRemainder();
+
+            assignment3.intoperation();
+
+            assignment3.doubleOpt();
+
+            assignment3.ctoF();
+
+            assignment3.fToC();
+
+            assignment3.totalIncome();
+
+            assignment3.swapNum();
+
+            assignment3.traveldetails();
+
+            assignment3.athleteRounds();
+
+            assignment3.divideChoco();
+
+            assignment3.simpleInterest();
+
+            assignment3.poundToKg();
+
+
+
+            
+
         }
     }
 };

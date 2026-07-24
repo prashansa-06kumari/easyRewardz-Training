@@ -1,7 +1,7 @@
 using System;
 using System.IO.Compression;
 
-namespace MyNamespace
+namespace Assignments
 {
     public class assignment1
     {
