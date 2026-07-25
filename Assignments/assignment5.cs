@@ -6,6 +6,7 @@ namespace Assignments
 {
     public class assignment5
     {
+        //question-1
         public static void validateStu()
         {
             int[] studentage=new int[10];
@@ -33,7 +34,7 @@ namespace Assignments
         }
 
 
-
+        //question-2
         public static void numAnalysis()
         {
             int[] nums=new int[5];
@@ -79,7 +80,7 @@ namespace Assignments
             }
         }
         
-
+        //question-3
         public static void mult()
         {
             Console.WriteLine("Enter the number you want multiplication table of: ");
@@ -92,9 +93,7 @@ namespace Assignments
             }
         }
 
-
-
-
+        //question-4
         public static void enterNum()
         {
             int[] num = new int[10];
@@ -122,6 +121,7 @@ namespace Assignments
             Console.WriteLine("\nSum = " + sum);
         }
 
+        //question-5
         public static void multi6To9()
         {
             int n;
@@ -136,7 +136,7 @@ namespace Assignments
             }
         }
 
-
+        //question-6
         public static void height()
         {
             int[] h = new int[11];
@@ -152,7 +152,7 @@ namespace Assignments
             Console.WriteLine("Mean height of players = " + mean);
         }
 
-
+        //question - 7
         public static void saveArray()
         {
             Console.Write("Enter a number: ");
@@ -187,7 +187,7 @@ namespace Assignments
             }
         }
 
-
+        //question-8
         public static void fact()
         {
             Console.Write("Enter a number: ");
@@ -208,7 +208,7 @@ namespace Assignments
                 Console.Write(facts[i] + " ");
             }
         }
-
+        //question -9
         public static void d2arr()
         {
             int[,] twoDArray = new int[2, 3];
@@ -247,7 +247,7 @@ namespace Assignments
             }
         }
 
-
+        //question - 10
         public static void fizz()
         {
             Console.Write("Enter a positive number: ");
@@ -289,7 +289,7 @@ namespace Assignments
 
 // ---------------------level 2 -----------------------------
 
-
+        //question 1
         public static void Zara()
         {
             double[] sal = new double[10];
@@ -336,7 +336,7 @@ namespace Assignments
             Console.WriteLine("Total Old Salary: " + totalOldSalary);
             Console.WriteLine("Total New Salary: " + totalNewSalary);
         }    
-
+        //question 2
         public static void ages()
         {
             string[] names = { "Amar", "Akbar", "Anthony" };
@@ -370,6 +370,7 @@ namespace Assignments
             Console.WriteLine("Height: " + h[tallestidx]);   
         }
 
+        //question 3
         public static void proragram2()
         {
             Console.Write("Enter a number: ");
@@ -420,6 +421,53 @@ namespace Assignments
             
         }
 
+        //question 4
+        public static void maxDigit()
+        {
+            int maxDigit = 10;
+            int index =0;
+
+            int[] numbers=new int[maxDigit];
+
+        while(true)
+        {
+            Console.Write("Enter number(-1 to stop): ");
+            int num = Convert.ToInt32(Console.ReadLine());
+            if (num == -1)
+                break;
+            if (index == maxDigit)
+            {
+                maxDigit += 10;
+                int[] temp = new int[maxDigit];
+                for (int i = 0; i < index; i++)
+                {
+                    temp[i] = numbers[i];
+                }
+                numbers = temp;
+            }
+            numbers[index] = num;
+            index++;
+        }
+        int largest = int.MinValue;
+        int secondLargest = int.MinValue;
+        for (int i = 0; i < index; i++)
+        {
+            if (numbers[i]>largest)
+            {
+                secondLargest=largest;
+                largest = numbers[i];
+            }
+            else if (numbers[i] > secondLargest && numbers[i] != largest)
+            {
+                secondLargest = numbers[i];
+            }
+        }
+
+        Console.WriteLine("Largest: " + largest);
+        Console.WriteLine("Second Largest: " + secondLargest);
+        }
+
+        //question 5
         public static void revnum()
         {
             Console.Write("Enter a number: ");
@@ -442,7 +490,7 @@ namespace Assignments
             }
         }
 
-
+        //question-6
         public static void bmi()
         {
             Console.Write("Enter number of persons: ");
@@ -489,7 +537,7 @@ namespace Assignments
             }
         }
 
-
+        //question-7
         public static void bmi2()
         {
             Console.Write("Enter number of persons: ");
@@ -537,7 +585,7 @@ namespace Assignments
             }
         }
 
-
+        //question-8
         public static void stumarks()
         {
              Console.Write("Enter number of students: ");
@@ -604,7 +652,7 @@ namespace Assignments
             }
         }
 
-
+        //question-9
         public static void storemarks()
         {
             Console.Write("Enter number of students: ");
@@ -667,7 +715,7 @@ namespace Assignments
             
         }
 
-
+        //question-10
         public static void freq()
         {
             Console.Write("Enter a number: ");
