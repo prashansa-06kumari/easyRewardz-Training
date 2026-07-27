@@ -125,19 +125,55 @@ namespace Assignments
             //level-3
 
             assignment4.FindMultiplesBelow100();
-
             assignment4.CheckArmstrongNumber();
-
             assignment4.CountDigits();
-
             assignment4.CheckHarshadNumber();
-
             assignment4.CheckAbundantNumber();
-
             assignment4.DayOfWeek();
-
             assignment4.Calculator();
 
+
+
+            //level-1
+            assignment6.SimpleInterest();
+            assignment6.HandShakes();
+            assignment6.AthleteRounds();
+            assignment6.CheckNumber();
+            assignment6.SpringSeason();
+            assignment6.SumNaturalNumbers();
+            assignment6.SmallestLargest();
+            assignment6.QuotientRemainder();
+            assignment6.ChocolateDistribution();
+            assignment6.WindChill();
+            assignment6.TrigonometricFunctions();
+            assignment6.Mult();
+            //level-2
+            assignment6.Factors();
+            assignment6.RecursiveNaturalSum();
+            assignment6.LeapYear();
+            assignment6.UnitConverter1();
+            assignment6.UnitConverter2();
+            assignment6.UnitConverter3();
+            assignment6.StudentVoteChecker();
+            assignment6.Friends();
+            assignment6.NumberCheck();
+            assignment6.BMICalculator();
+            assignment6.Quadratic();
+            assignment6.RandomNumbers();
+            //level-3
+            assignment6.FootballHeight();
+            assignment6.NumberCheckerBasic();
+            assignment6.NumberCheckerHarshad();
+            assignment6.NumberPalindromeDuck();
+            assignment6.NumberProperties();
+            assignment6.NumberFactors();
+            assignment6.GenerateOTP();
+            assignment6.Calendar();
+            assignment6.EuclideanDistance();
+            assignment6.CollinearPoints();
+            assignment6.ZaraBonus();
+            assignment6.StudentScoreCard();
+            assignment6.MatrixOperations();
         
 
         }
