@@ -289,12 +289,12 @@ namespace Assignments
         public static void replaceWord()
         {
             Console.Write("Enter a sentence: ");
-            string sentence = Console.ReadLine()!;
+            string sent = Console.ReadLine()!;
             Console.Write("Enter word to replace: ");
             string oldWord = Console.ReadLine()!;
             Console.Write("Enter new word: ");
             string newWord = Console.ReadLine()!;
-            string[] words = sentence.Split(' ');
+            string[] words = sent.Split(' ');
             for (int i = 0; i < words.Length; i++)
             {
                 if (words[i] == oldWord)
@@ -302,19 +302,19 @@ namespace Assignments
                     words[i] = newWord;
                 }
             }
-            string result = "";
+            string res = "";
             for (int i = 0; i < words.Length; i++)
             {
-                result += words[i];
+                res += words[i];
                 if (i != words.Length - 1)
                 {
-                    result += " ";
+                    res += " ";
                 }
             }
-            Console.WriteLine("Modified Sentence = " + result);
+            Console.WriteLine("Modified Sentence = " + res);
         }
 
 
-        
+
     }
 }
