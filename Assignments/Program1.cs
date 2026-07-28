@@ -176,6 +176,21 @@ namespace Assignments
             assignment6.MatrixOperations();
         
 
+
+            //assignment7
+            assignment7.countVowelsConsonants();
+            assignment7.reverseString();
+            assignment7.palindromeString();
+            assignment7.removeDuplicate();
+            assignment7.longestWord();
+            assignment7.substringOccurrence();
+            assignment7.toggleCase();
+            assignment7.compareStrings();
+            assignment7.mostFrequentCharacter();
+            assignment7.removeCharacter();
+            assignment7.anagramCheck();
+            assignment7.replaceWord(); 
+
         }
     }
 };
