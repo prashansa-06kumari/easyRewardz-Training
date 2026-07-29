@@ -191,6 +191,25 @@ namespace Assignments
             assignment7.anagramCheck();
             assignment7.replaceWord(); 
 
+
+
+            assignment8.TimeZones();
+            assignment8.DateArithmetic();
+            assignment8.DateFormatting();
+            assignment8.DateComparison();
+
+
+
+            assignment8.NumberGuessingGame();
+            assignment8.MaximumOfThree();
+            assignment8.PrimeChecker();
+            assignment8.Fibonacci();
+            assignment8.PalindromeChecker();
+            assignment8.Factorial();
+            assignment8.GCDLCM();
+            assignment8.TemperatureConverter();
+            assignment8.Calculator();
+
         }
     }
 };
