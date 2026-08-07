@@ -1,0 +1,5 @@
+E:\c#first\Day14-Regex-UnitTesting\Unit_Testing_Examples\obj\Debug\net10.0\Unit_Testing_Examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#first\Day14-Regex-UnitTesting\Unit_Testing_Examples\obj\Debug\net10.0\Unit_Testing_Examples.AssemblyInfoInputs.cache
+E:\c#first\Day14-Regex-UnitTesting\Unit_Testing_Examples\obj\Debug\net10.0\Unit_Testing_Examples.AssemblyInfo.cs
+E:\c#first\Day14-Regex-UnitTesting\Unit_Testing_Examples\obj\Debug\net10.0\Unit_Testing_Examples.csproj.CoreCompileInputs.cache
+E:\c#first\Day14-Regex-UnitTesting\Unit_Testing_Examples\obj\Debug\net10.0\Unit_Testing_Examples.sourcelink.json

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "TALFJthjX28=",
+  "success": true,
+  "projectFilePath": "E:\\c#first\\Day14-Regex-UnitTesting\\NUnit_Test\\NUnit_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.codecoverage\\18.8.1\\microsoft.codecoverage.18.8.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.net.test.sdk\\18.8.1\\microsoft.net.test.sdk.18.8.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\2.1.0\\microsoft.testing.extensions.telemetry.2.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.1.0\\microsoft.testing.extensions.trxreport.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\2.1.0\\microsoft.testing.extensions.vstestbridge.2.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.testing.platform\\2.1.0\\microsoft.testing.platform.2.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.1.0\\microsoft.testing.platform.msbuild.2.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.8.1\\microsoft.testplatform.objectmodel.18.8.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.testplatform.testhost\\18.8.1\\microsoft.testplatform.testhost.18.8.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\nunit\\4.6.1\\nunit.4.6.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\nunit.analyzers\\4.7.0\\nunit.analyzers.4.7.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\nunit3testadapter\\6.2.0\\nunit3testadapter.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
