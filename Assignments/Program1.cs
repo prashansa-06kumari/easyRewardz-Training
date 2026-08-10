@@ -68,147 +68,151 @@ namespace Assignments
 
             //level 2
             //ASSGINMENT-5
-            assignment5.Zara();
-            assignment5.ages();
-            assignment5.proragram2();
-            assignment5.revnum();
-            assignment5.bmi();
-            assignment5.bmi2();
-            assignment5.stumarks();
-            assignment5.storemarks();
-            assignment5.freq();
+            // assignment5.Zara();
+            // assignment5.ages();
+            // assignment5.proragram2();
+            // assignment5.revnum();
+            // assignment5.bmi();
+            // assignment5.bmi2();
+            // assignment5.stumarks();
+            // assignment5.storemarks();
+            // assignment5.freq();
 
 
-            //assginment-4
-            //level-1
-            assignment4.CheckDivisibilityBy5();
-            assignment4.CheckFirstIsSmallest();
-            assignment4.CheckLargestOfThree();
-            assignment4.SumOfNNaturalNumbers();
-            assignment4.CheckVotingEligibility();
-            assignment4.CheckNumber();
-            assignment4.CheckSpringSeason(["3", "4"]);
-            assignment4.RocketCountWhile();
-            assignment4.RocketCountFor();
-            assignment4.SumUntilZero();
-            assignment4.SumUntilZeroOrNegative();
-            assignment4.SumNNaturalNum();
-            assignment4.SumNNaturalNumbersFor();
-            assignment4.FactorialWhile();
-            assignment4.FactorialFor();
-            assignment4.PrintOddAndEven();
-            assignment4.CalculateEmployeeBonus();
-            assignment4.MultiplicationTable6To9();
+            // //assginment-4
+            // //level-1
+            // assignment4.CheckDivisibilityBy5();
+            // assignment4.CheckFirstIsSmallest();
+            // assignment4.CheckLargestOfThree();
+            // assignment4.SumOfNNaturalNumbers();
+            // assignment4.CheckVotingEligibility();
+            // assignment4.CheckNumber();
+            // assignment4.CheckSpringSeason(["3", "4"]);
+            // assignment4.RocketCountWhile();
+            // assignment4.RocketCountFor();
+            // assignment4.SumUntilZero();
+            // assignment4.SumUntilZeroOrNegative();
+            // assignment4.SumNNaturalNum();
+            // assignment4.SumNNaturalNumbersFor();
+            // assignment4.FactorialWhile();
+            // assignment4.FactorialFor();
+            // assignment4.PrintOddAndEven();
+            // assignment4.CalculateEmployeeBonus();
+            // assignment4.MultiplicationTable6To9();
 
-            //level-2
-            assignment4.CheckLeapYear1();
-            assignment4.CheckLeapYear2();
+            // //level-2
+            // assignment4.CheckLeapYear1();
+            // assignment4.CheckLeapYear2();
 
-            assignment4.CalculateStudentGrade();
+            // assignment4.CalculateStudentGrade();
 
-            assignment4.CheckPrimeNumber();
+            // assignment4.CheckPrimeNumber();
 
-            assignment4.FizzBuzzFor();
+            // assignment4.FizzBuzzFor();
 
-            assignment4.FizzBuzzWhile();
+            // assignment4.FizzBuzzWhile();
 
-            assignment4.CalculateBMI();
+            // assignment4.CalculateBMI();
 
-            assignment4.FindYoungestAndTallest();
+            // assignment4.FindYoungestAndTallest();
 
-            assignment4.FindGreatestFactor();
+            // assignment4.FindGreatestFactor();
 
-            assignment4.FindPower();
+            // assignment4.FindPower();
 
-            assignment4.FindFactors();
+            // assignment4.FindFactors();
 
-            //level-3
+            // //level-3
 
-            assignment4.FindMultiplesBelow100();
-            assignment4.CheckArmstrongNumber();
-            assignment4.CountDigits();
-            assignment4.CheckHarshadNumber();
-            assignment4.CheckAbundantNumber();
-            assignment4.DayOfWeek();
-            assignment4.Calculator();
+            // assignment4.FindMultiplesBelow100();
+            // assignment4.CheckArmstrongNumber();
+            // assignment4.CountDigits();
+            // assignment4.CheckHarshadNumber();
+            // assignment4.CheckAbundantNumber();
+            // assignment4.DayOfWeek();
+            // assignment4.Calculator();
 
 
 
-            //level-1
-            assignment6.SimpleInterest();
-            assignment6.HandShakes();
-            assignment6.AthleteRounds();
-            assignment6.CheckNumber();
-            assignment6.SpringSeason();
-            assignment6.SumNaturalNumbers();
-            assignment6.SmallestLargest();
-            assignment6.QuotientRemainder();
-            assignment6.ChocolateDistribution();
-            assignment6.WindChill();
-            assignment6.TrigonometricFunctions();
-            assignment6.Mult();
-            //level-2
-            assignment6.Factors();
-            assignment6.RecursiveNaturalSum();
-            assignment6.LeapYear();
-            assignment6.UnitConverter1();
-            assignment6.UnitConverter2();
-            assignment6.UnitConverter3();
-            assignment6.StudentVoteChecker();
-            assignment6.Friends();
-            assignment6.NumberCheck();
-            assignment6.BMICalculator();
-            assignment6.Quadratic();
-            assignment6.RandomNumbers();
-            //level-3
-            assignment6.FootballHeight();
-            assignment6.NumberCheckerBasic();
-            assignment6.NumberCheckerHarshad();
-            assignment6.NumberPalindromeDuck();
-            assignment6.NumberProperties();
-            assignment6.NumberFactors();
-            assignment6.GenerateOTP();
-            assignment6.Calendar();
-            assignment6.EuclideanDistance();
-            assignment6.CollinearPoints();
-            assignment6.ZaraBonus();
-            assignment6.StudentScoreCard();
-            assignment6.MatrixOperations();
+            // //level-1
+            // assignment6.SimpleInterest();
+            // assignment6.HandShakes();
+            // assignment6.AthleteRounds();
+            // assignment6.CheckNumber();
+            // assignment6.SpringSeason();
+            // assignment6.SumNaturalNumbers();
+            // assignment6.SmallestLargest();
+            // assignment6.QuotientRemainder();
+            // assignment6.ChocolateDistribution();
+            // assignment6.WindChill();
+            // assignment6.TrigonometricFunctions();
+            // assignment6.Mult();
+            // //level-2
+            // assignment6.Factors();
+            // assignment6.RecursiveNaturalSum();
+            // assignment6.LeapYear();
+            // assignment6.UnitConverter1();
+            // assignment6.UnitConverter2();
+            // assignment6.UnitConverter3();
+            // assignment6.StudentVoteChecker();
+            // assignment6.Friends();
+            // assignment6.NumberCheck();
+            // assignment6.BMICalculator();
+            // assignment6.Quadratic();
+            // assignment6.RandomNumbers();
+            // //level-3
+            // assignment6.FootballHeight();
+            // assignment6.NumberCheckerBasic();
+            // assignment6.NumberCheckerHarshad();
+            // assignment6.NumberPalindromeDuck();
+            // assignment6.NumberProperties();
+            // assignment6.NumberFactors();
+            // assignment6.GenerateOTP();
+            // assignment6.Calendar();
+            // assignment6.EuclideanDistance();
+            // assignment6.CollinearPoints();
+            // assignment6.ZaraBonus();
+            // assignment6.StudentScoreCard();
+            // assignment6.MatrixOperations();
         
 
 
             //assignment7
-            assignment7.countVowelsConsonants();
-            assignment7.reverseString();
-            assignment7.palindromeString();
-            assignment7.removeDuplicate();
-            assignment7.longestWord();
-            assignment7.substringOccurrence();
-            assignment7.toggleCase();
-            assignment7.compareStrings();
-            assignment7.mostFrequentCharacter();
-            assignment7.removeCharacter();
-            assignment7.anagramCheck();
-            assignment7.replaceWord(); 
+            // assignment7.countVowelsConsonants();
+            // assignment7.reverseString();
+            // assignment7.palindromeString();
+            // assignment7.removeDuplicate();
+            // assignment7.longestWord();
+            // assignment7.substringOccurrence();
+            // assignment7.toggleCase();
+            // assignment7.compareStrings();
+            // assignment7.mostFrequentCharacter();
+            // assignment7.removeCharacter();
+            // assignment7.anagramCheck();
+            // assignment7.replaceWord(); 
 
 
 
-            assignment8.TimeZones();
-            assignment8.DateArithmetic();
-            assignment8.DateFormatting();
-            assignment8.DateComparison();
+            // assignment8.TimeZones();
+            // assignment8.DateArithmetic();
+            // assignment8.DateFormatting();
+            // assignment8.DateComparison();
 
 
 
-            assignment8.NumberGuessingGame();
-            assignment8.MaximumOfThree();
-            assignment8.PrimeChecker();
-            assignment8.Fibonacci();
-            assignment8.PalindromeChecker();
-            assignment8.Factorial();
-            assignment8.GCDLCM();
-            assignment8.TemperatureConverter();
-            assignment8.Calculator();
+            // assignment8.NumberGuessingGame();
+            // assignment8.MaximumOfThree();
+            // assignment8.PrimeChecker();
+            // assignment8.Fibonacci();
+            // assignment8.PalindromeChecker();
+            // assignment8.Factorial();
+            // assignment8.GCDLCM();
+            // assignment8.TemperatureConverter();
+            // assignment8.Calculator();
+
+
+            
+
 
         }
     }

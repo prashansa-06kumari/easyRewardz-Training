@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj": {
-                "projectPath": "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj"
+              "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj": {
+                "projectPath": "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj"
               }
             }
           }
@@ -372,14 +372,14 @@
         }
       }
     },
-    "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj": {
+    "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj",
+        "projectUniqueName": "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj",
         "projectName": "Unit_Testing_Examples",
-        "projectPath": "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj",
+        "projectPath": "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj",
         "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\obj\\",
+        "outputPath": "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

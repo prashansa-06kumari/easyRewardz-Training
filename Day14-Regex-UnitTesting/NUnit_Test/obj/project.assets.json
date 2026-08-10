@@ -1476,8 +1476,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj": {
-              "projectPath": "e:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj"
+            "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj": {
+              "projectPath": "E:\\c#first\\Day14-Regex-UnitTesting\\Unit_Testing_Examples\\Unit_Testing_Examples.csproj"
             }
           }
         }
