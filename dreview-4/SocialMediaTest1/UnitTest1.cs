@@ -2,6 +2,7 @@
 
 namespace SocialMediaTest1
 {
+
     public class Tests
     {
         SocialMedia app;
@@ -55,7 +56,6 @@ namespace SocialMediaTest1
             app.AddStory(new Story(1, 1, "Ram"));
 
             app.AddStory(new Story(2, 2, "Shyam"));
-
             app.NextStory();
             Story story = app.NextStory();
             Assert.That(story.Id, Is.EqualTo(1));
@@ -73,6 +73,46 @@ namespace SocialMediaTest1
                 new FeedItem(101, 1,"Learning C#",10, 5));
 
             Assert.That(app.GetFeed().Count,Is.EqualTo(1));
+        }
+        [Test]
+        public void SearchFollowerTest()
+        {
+            app.AddFollower(1, "Ram");
+            app.AddFollower(1, "Pk");
+            app.AddFollower(1, "Jeet");
+            string result =app.SearchFollower(1, "Pk");
+            Assert.That(result, Is.EqualTo("Pk"));
+        }
+
+        [Test]
+        public void EmptyNotificationTest()
+        {
+            Notification n=app.GetNotification();
+            Assert.That(n,Is.Null);
+        }
+
+        public void StoryAndUserWorkflowTest()
+        {
+            app.AddStory(new Story(1,1, "Ram Story"));
+            app.AddStory(new Story(2, 2,"Shyam Story"));
+            UserProfile user=app.FindUser(1);
+            app.OpenStory();
+            app.NextStory();
+            Assert.That(user.Username,Is.EqualTo("Ram"));
+            Assert.That(app.CurrentStory().Id,Is.EqualTo(2));
+        }
+        [Test]
+        public void FeedNotificationAndFollowerWorkflowTest()
+        {
+            app.AddPost(new FeedItem(101,1,"Learning C#", 63,17));
+            app.AddNotification(new Notification(1,"Post liked"));
+            app.AddFollower(1, "Pk");
+            var feed = app.GetFeed();
+            Notification notification=app.GetNotification();
+            string follower=app.SearchFollower(1,"Pk");
+            Assert.That(feed.Count,Is.EqualTo(1));
+            Assert.That(notification.Message,Is.EqualTo("Post liked"));
+            Assert.That(follower,Is.EqualTo("Pk"));
         }
     }   
 }
